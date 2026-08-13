@@ -1,0 +1,509 @@
+order_id,customer_name,email,product_name,category,quantity,unit_price,amount,order_date,status
+ORD00001,Allison Hill,donaldgarcia@example.net,Wait Pro,electronics,3,126.22,378.66,2026-06-30,pending
+ORD00002,Amanda Davis,williamjohnson@example.org,Sense Pro,toys,4,20.73,82.92,2026-07-09,completed
+ORD00003,Connie Lawrence,blakeerik@example.com,Grow Max,sports,5,212.66,,2026-06-06,refunded
+ORD00004,Phillip Garcia,wdavis@example.net,Everything Max,sports,4,173.42,693.68,2026-07-23,pending
+ORD00005,Kimberly Dudley,smiller@example.net,Present Plus,electronics,3,424.51,1273.53,2026-07-30,cancelled
+ORD00006,Corey Jones,kendragalloway@example.org,Trial Plus,electronics,5,150.12,750.6,2026-05-21,cancelled
+ORD00007,Mark Diaz,michael41@example.net,Prove Max,home,1,428.38,428.38,2026-05-27,completed
+ORD00008,Carla Gray,gabriellecameron@example.org,Drop Max,home,3,108.71,326.13,2026-07-24,cancelled
+ORD00009,Jennifer Jones,jason76@example.net,Low Max,toys,2,85.88,171.76,2026-05-24,refunded
+ORD00010,Patrick Ryan,zhurst@example.com,Discuss Max,sports,3,422.21,1266.63,2026-08-09,completed
+ORD00011,Johnny Campos,hernandezernest@example.net,Knowledge Lite,electronics,2,457.0,914.0,2026-07-04,cancelled
+ORD00012,Kyle Mcdonald,tasha01@example.net,Value Plus,clothing,3,74.12,222.36,2026-06-29,cancelled
+ORD00013,Martin Rodriguez,amoore@example.net,Type Lite,clothing,2,257.22,514.44,2026-07-15,completed
+ORD00014,Pamela Romero,harrellkenneth@example.net,Movement Max,sports,4,300.22,1200.88,2026-07-05,refunded
+ORD00015,Phillip Ryan,georgetracy@example.org,Woman,electronics,1,342.45,342.45,2026-06-13,cancelled
+ORD00016,Dr. Cynthia Allen,millertodd@example.org,Soon Max,books,1,477.14,477.14,2026-06-28,cancelled
+ORD00017,Matthew Arroyo,josephbrennan@example.com,Development Pro,sports,3,421.63,1264.89,2026-08-03,pending
+ORD00018,Melissa Marquez,pcarney@example.com,Left,electronics,5,165.46,827.3,2026-07-31,completed
+ORD00019,David Brown,chapmanjerry@example.org,Account Lite,clothing,1,124.23,124.23,2026-05-18,completed
+ORD00020,Crystal Whitehead,chad34@example.net,Mention,clothing,2,331.58,663.16,2026-05-31,pending
+ORD00021,Timothy Duncan,esanchez@example.com,Customer Max,toys,2,357.91,715.82,2026-05-20,refunded
+ORD00022,Heather Jenkins,nuneztracey@example.org,Ask,books,1,127.71,127.71,2026-06-17,completed
+ORD00023,Scott Wright,amandataylor@example.org,Family Max,electronics,1,355.38,355.38,2026-06-22,completed
+ORD00024,Angela Morton,williamsyvette@example.org,Better Pro,toys,2,142.85,285.7,2026-08-03,refunded
+ORD00025,Carol Tucker,michellebarrera@example.org,Hundred,toys,4,125.28,501.12,2026-05-12,refunded
+ORD00026,Timothy Glover,rodney87@example.org,Customer Plus,home,4,208.5,834.0,2026-06-07,completed
+ORD00027,Lauren Daniels,brian97@example.net,Wide Plus,sports,3,401.29,1203.87,2026-07-27,completed
+ORD00028,Tyler Miller,caseyjones@example.org,International Plus,clothing,3,234.0,702.0,2026-05-22,completed
+ORD00029,Danielle Wheeler,barnesbrandy@example.net,Four Pro,sports,5,418.83,2094.15,2026-08-04,completed
+ORD00030,Mike Allen,panderson@example.com,Lot Plus,books,-1,433.0,866.0,2026-06-09,completed
+ORD00031,Angel Ellis,jonesjason@example.com,Cause Plus,home,4,349.81,1399.24,2026-08-03,refunded
+ORD00032,Sherry Wood,samueldaniels@example.com,Population,sports,5,35.17,175.85,2026-08-08,cancelled
+ORD00033,Kendra Contreras,sarah12@example.com,Business,clothing,1,480.59,480.59,2026-07-31,completed
+ORD00034,Brittney Campbell,jenniferharris@example.net,Tonight Max,books,1,471.09,471.09,2026-06-04,pending
+ORD00035,Taylor Mathis Jr.,ccalderon@example.org,Goal,toys,5,161.6,808.0,2026-07-20,cancelled
+ORD00036,Deborah Figueroa,,You Plus,clothing,3,231.33,693.99,2026-07-30,completed
+ORD00037,Kimberly Davenport,russellwilliams@example.com,Way Pro,electronics,5,110.51,552.55,2026-08-03,cancelled
+ORD00038,Amanda Howard,elizabethgomez@example.net,Usually Max,home,3,83.08,249.24,2026-07-29,cancelled
+ORD00039,Nicole Frost,michellecherry@example.org,Upon Pro,sports,5,153.19,765.95,2026-06-18,completed
+ORD00040,Tim Patton,vpham@example.org,Example Pro,sports,5,81.95,409.75,2026-05-26,cancelled
+ORD00041,Janet Williams,dwalker@example.com,Focus Lite,toys,4,129.31,517.24,2026-07-24,completed
+ORD00042,Courtney Keller,emurphy@example.com,Have Pro,home,2,320.37,640.74,2026-07-08,cancelled
+ORD00043,William Herrera,wilsontara@example.org,Partner,electronics,1,42.25,42.25,2026-08-06,pending
+ORD00044,Brian Hamilton,samuel81@example.com,We Max,books,2,25.71,51.42,2026-07-02,cancelled
+ORD00045,Michael Smith,michaeljones@example.net,Wife Lite,clothing,2,335.13,670.26,2026-06-10,cancelled
+ORD00046,Ryan Cortez,william65@example.com,Same,sports,2,463.25,926.5,2026-06-07,pending
+ORD00047,Jason Bentley,christinaturner@example.net,These Plus,electronics,2,369.6,739.2,2026-05-12,cancelled
+ORD00048,Jeffrey Carpenter,steven73@example.net,Material Max,home,2,394.75,789.5,2026-07-22,completed
+ORD00049,Nancy Hopkins,zachary95@example.org,Tell Max,books,3,156.07,468.21,2026-08-05,pending
+ORD00050,Eric Drake,andrewsanchez@example.com,Popular Lite,electronics,3,178.82,536.46,2026-07-27,refunded
+ORD00051,Jason Soto,jennifercruz@example.com,Either Pro,electronics,3,93.39,280.17,2026-05-25,cancelled
+ORD00052,Stephanie Dalton,osbornejeffery@example.net,National Lite,books,5,492.2,2461.0,2026-06-22,completed
+ORD00053,Sylvia Martinez,lauriecontreras@example.net,Physical Plus,electronics,5,463.16,2315.8,2026-06-09,pending
+ORD00054,Jessica Briggs,jrivas@example.com,Watch Lite,toys,3,333.38,1000.14,2026-05-26,completed
+ORD00055,Joanna Walton,katie87@example.net,Edge Plus,home,4,350.12,1400.48,2026-06-05,pending
+ORD00056,Dustin Nelson,patricia12@example.org,During Max,toys,5,153.97,769.85,2026-06-15,completed
+ORD00057,Daniel Perry,amy60@example.org,There,sports,3,235.17,705.51,2026-06-18,refunded
+ORD00058,Lauren Dominguez,wwoods@example.com,Some Max,sports,1,145.47,145.47,2026-06-16,cancelled
+ORD00059,Sara Medina,tracynelson@example.com,Air Lite,clothing,2,77.94,155.88,2026-06-15,completed
+ORD00060,Rebecca Ramsey,ncalhoun@example.net,Agreement Pro,books,4,443.64,1774.56,2026-08-01,pending
+ORD00061,Mary Miller,dtaylor@example.org,Apply Max,sports,1,446.87,446.87,2026-06-04,completed
+ORD00062,Jesse Rogers,aramirez@example.com,They,books,1,280.92,280.92,2026-05-19,completed
+ORD00063,Joshua Cooke,jeffrey10@example.org,End,toys,3,475.27,1425.81,2026-05-29,refunded
+ORD00064,Christian Martinez,elliottjeffery@example.net,Establish,books,2,373.11,746.22,2026-07-20,refunded
+ORD00065,Lawrence Adkins,stricklandfrank@example.com,Box Lite,toys,4,315.24,1260.96,2026-07-03,cancelled
+ORD00066,Laura Odonnell,tsanders@example.org,Bag Lite,home,5,44.89,224.45,2026-07-04,pending
+ORD00067,Dana Terry,melissa91@example.net,Stay Pro,books,4,168.79,675.16,2026-05-15,refunded
+ORD00068,Mary Jones,alexander67@example.org,Lead,sports,1,429.08,429.08,2026-08-06,refunded
+ORD00069,Sandra Zimmerman,hthompson@example.net,Expect Plus,books,5,375.02,1875.1,2026-07-06,pending
+ORD00070,Patricia Marshall,marcus31@example.com,Upon Plus,home,4,363.47,1453.88,2026-06-21,refunded
+ORD00071,Laura Barnett,anthony52@example.com,Difference Plus,toys,5,333.18,1665.9,2026-06-12,completed
+ORD00072,Douglas Carlson,angela83@example.org,Effort Pro,home,4,167.04,668.16,2026-07-15,refunded
+ORD00073,Peter Vaughn DDS,bwest@example.org,Financial Plus,home,1,237.8,237.8,2026-05-31,completed
+ORD00074,Elizabeth Perkins,wtran@example.com,Skill Pro,electronics,2,103.68,207.36,2026-06-30,completed
+ORD00075,Jesse Parker,davidlee@example.org,Situation Pro,toys,2,235.19,470.38,2026-06-29,cancelled
+ORD00076,Cathy Robinson,lhill@example.net,Picture Pro,clothing,3,58.51,175.53,2026-06-06,completed
+ORD00077,Cory Perez,kevinerickson@example.org,Eye Plus,books,2,42.62,85.24,2026-05-16,pending
+ORD00078,Edgar Raymond,agarcia@example.net,Feel,electronics,5,392.4,1962.0,2026-06-23,cancelled
+ORD00079,Cody Williams,ewilson@example.com,Million Lite,electronics,4,412.05,1648.2,2026-05-18,completed
+ORD00080,Amy Hernandez,christopher31@example.net,South Plus,sports,2,220.57,441.14,2026-06-18,cancelled
+ORD00081,Lisa Rowe,chayes@example.com,Trade Plus,books,5,137.86,689.3,2026-07-03,pending
+ORD00082,Keith Brown,mezajared@example.org,Everything Max,books,5,307.11,1535.55,2026-07-10,refunded
+ORD00083,Christopher Jones,ortizhannah@example.com,Film Plus,clothing,3,399.93,1199.79,2026-05-14,cancelled
+ORD00084,Douglas Heath,mcdanielsandra@example.net,Perform,electronics,5,474.29,2371.45,2026-07-10,completed
+ORD00085,Jessica Stephens,rebekahserrano@example.org,As Max,sports,-1,324.72,1298.88,2026-05-26,refunded
+ORD00086,Paul Carroll,scott74@example.net,Interesting Plus,sports,2,156.57,313.14,2026-08-04,cancelled
+ORD00087,Katherine Miller,prestonjessica@example.net,Enough,home,3,352.91,1058.73,2026-05-14,cancelled
+ORD00088,Michael Valencia,keyemily@example.com,Part Lite,electronics,5,475.68,2378.4,2026-05-15,pending
+ORD00089,Julie Pearson,howard96@example.net,Teach,toys,5,145.08,725.4,2026-06-25,completed
+ORD00090,Gregory Cook,hodgemark@example.net,Mission Lite,electronics,5,67.66,338.3,2026-06-06,completed
+ORD00091,Robin Pierce,qmiller@example.com,Business Max,sports,4,55.78,223.12,2026-08-07,completed
+ORD00092,Jose Travis,mgutierrez@example.net,High Max,electronics,3,470.83,1412.49,2026-07-07,refunded
+ORD00093,Mr. Anthony Adams Jr.,samuel71@example.org,Professor,sports,1,80.1,80.1,2026-07-05,cancelled
+ORD00094,Christopher Pierce,hdavis@example.com,Your Plus,toys,5,396.42,1982.1,2026-05-22,pending
+ORD00095,Kathleen Moran,robert77@example.org,Loss Lite,toys,4,156.16,624.64,2026-06-30,completed
+ORD00096,Thomas Romero,michellehill@example.com,Grow Max,sports,2,136.0,272.0,2026-08-04,completed
+ORD00097,Samantha Campbell,mary97@example.org,Likely Pro,books,4,346.24,1384.96,2026-06-29,refunded
+ORD00098,Juan Daniels,mcantu@example.net,Edge Plus,electronics,2,462.34,924.68,2026-07-02,pending
+ORD00099,Reginald Williams,zthornton@example.com,Imagine Lite,clothing,1,34.52,34.52,2026-08-08,cancelled
+ORD00100,Marissa Hernandez,martineztammy@example.com,True Plus,electronics,4,345.9,1383.6,2026-05-21,refunded
+ORD00101,Ariana Lozano,bowenrobert@example.net,Clear Pro,toys,1,445.26,445.26,2026-05-18,cancelled
+ORD00102,Deborah Hanson,vsantos@example.net,Town,toys,1,499.79,499.79,2026-06-29,cancelled
+ORD00103,Lori Clay,cbrennan@example.net,Authority,sports,4,458.46,1833.84,2026-06-02,pending
+ORD00104,Donna Perez,hamiltoncorey@example.net,Score Pro,books,3,207.13,621.39,2026-07-29,cancelled
+ORD00105,Michael Berger,nguyenbrian@example.com,House Plus,home,4,407.72,1630.88,2026-06-19,completed
+ORD00106,Jason Maldonado,georgemiller@example.com,President Plus,toys,1,330.54,330.54,2026-07-12,refunded
+ORD00107,Mr. David Little MD,nolansteven@example.com,Research Plus,sports,4,381.2,1524.8,2026-06-30,pending
+ORD00108,Tony Huerta,danielle64@example.com,Through Plus,electronics,1,486.71,,2026-06-08,pending
+ORD00109,Dr. Ashley James MD,victoria40@example.net,Individual Plus,electronics,2,496.17,992.34,2026-06-05,completed
+ORD00110,Melissa Garner,lozanojulie@example.com,Stand Plus,sports,3,256.89,770.67,2026-07-22,cancelled
+ORD00111,Heather Fields,erica21@example.net,Race Plus,toys,2,194.88,389.76,2026-05-15,pending
+ORD00112,Amanda Diaz,christopherphillips@example.net,Just Plus,home,5,137.25,686.25,2026-05-27,completed
+ORD00113,Joshua Mata,maria47@example.com,Skin Plus,clothing,4,271.6,1086.4,2026-07-29,cancelled
+ORD00114,Julie Jones,michelleramsey@example.com,Throughout Lite,clothing,2,288.04,576.08,2026-07-23,pending
+ORD00115,Richard Smith,gibsonemily@example.net,Everybody Plus,sports,4,196.11,784.44,2026-07-03,pending
+ORD00116,Teresa Rodriguez,thomasharvey@example.net,Generation,home,1,437.72,,2026-08-02,refunded
+ORD00117,Arthur Colon,debra12@example.org,Young Max,books,2,42.04,84.08,2026-05-15,cancelled
+ORD00118,Audrey Young DDS,qchavez@example.net,Same Lite,sports,5,193.1,965.5,2026-08-05,cancelled
+ORD00119,Patrick Moore,fpena@example.net,Involve,electronics,5,38.87,194.35,2026-08-04,cancelled
+ORD00120,Michael Robinson,xsampson@example.org,Rich Pro,sports,1,224.62,224.62,2026-06-14,cancelled
+ORD00121,Maria Brown,james17@example.org,Recognize Lite,home,3,218.19,654.57,2026-05-31,pending
+ORD00122,Tricia Williams,john29@example.org,Authority Max,clothing,1,306.7,306.7,2026-07-25,refunded
+ORD00123,Laurie Li,markhernandez@example.net,Able Max,clothing,-1,320.76,1283.04,2026-06-05,refunded
+ORD00124,Dr. Kimberly Lindsey,guerreroanthony@example.org,Help Lite,sports,5,83.2,416.0,2026-07-22,refunded
+ORD00125,Franklin Thompson,martinezrobert@example.org,Skill Plus,sports,3,231.13,693.39,2026-05-17,cancelled
+ORD00126,Ivan Wheeler,ngordon@example.org,Short Max,books,5,182.68,913.4,2026-07-21,cancelled
+ORD00127,Kelly Ellis,browntimothy@example.com,Last Plus,home,1,285.13,285.13,2026-07-12,completed
+ORD00128,Theodore Jones Jr.,cameronhill@example.net,Pay Lite,clothing,5,401.96,2009.8,2026-06-30,pending
+ORD00129,Zachary Schmidt,bwagner@example.org,Student Max,sports,1,452.18,452.18,2026-07-14,completed
+ORD00130,Marilyn Mack,russellbeasley@example.com,Group Max,electronics,3,166.73,500.19,2026-07-25,refunded
+ORD00131,Nicholas Edwards,elizabeth52@example.net,Wind Lite,toys,5,457.18,2285.9,2026-06-23,pending
+ORD00132,Bradley Reynolds,lisa80@example.net,Or Lite,sports,3,403.1,1209.3,2026-07-01,refunded
+ORD00133,Jennifer Russo,,Field Plus,toys,3,49.7,149.1,2026-07-05,refunded
+ORD00134,Kenneth Lewis,gwalker@example.com,Through Lite,toys,4,412.1,1648.4,2026-07-01,cancelled
+ORD00135,Donald Perez,xbruce@example.net,Positive,home,5,114.58,572.9,2026-07-11,completed
+ORD00136,Lisa Barrett,anthony44@example.com,Have Plus,electronics,2,27.45,54.9,2026-05-12,completed
+ORD00137,Kylie Morales,joycebonilla@example.org,Skin,clothing,4,229.55,918.2,2026-06-28,refunded
+ORD00138,Jesse Moore,jennifer99@example.org,Use Pro,books,5,207.02,1035.1,2026-05-16,cancelled
+ORD00139,Luke Craig,scott67@example.net,Letter Max,home,1,490.56,490.56,2026-06-18,cancelled
+ORD00140,Jose Reed,campbellerika@example.com,New Plus,home,2,484.26,968.52,2026-07-11,refunded
+ORD00141,James Greene,harrissierra@example.org,South Pro,electronics,3,125.57,376.71,2026-06-03,pending
+ORD00142,Adam Burgess,davidpatel@example.org,Month,clothing,5,111.9,559.5,2026-07-01,pending
+ORD00143,Heather Sanders,grahamsteve@example.org,Training Pro,home,2,493.83,987.66,2026-06-09,cancelled
+ORD00144,Jared Bowman,darius05@example.org,Suddenly Max,electronics,-1,396.04,1188.12,2026-08-05,pending
+ORD00145,Michael Cox,prichard@example.com,Perform Max,sports,4,265.41,1061.64,2026-06-17,completed
+ORD00146,Seth Reese,masonjackson@example.net,Property Pro,books,5,114.67,573.35,2026-05-22,completed
+ORD00147,Susan Bailey,joelthomas@example.org,Consumer Lite,books,1,35.11,35.11,2026-07-05,refunded
+ORD00148,Mary Thompson,kmarshall@example.net,List Plus,electronics,1,164.45,164.45,2026-07-12,pending
+ORD00149,Maria Downs,michelle52@example.com,Author,sports,3,193.55,580.65,2026-06-23,cancelled
+ORD00150,Rebecca Vargas,william47@example.com,Always Pro,sports,5,361.82,1809.1,2026-05-17,pending
+ORD00151,Angela Lin,gilbertwilliam@example.com,Partner Plus,books,4,366.16,1464.64,2026-06-30,cancelled
+ORD00152,Stephanie Cole,marcalvarez@example.org,Assume Max,sports,4,38.23,152.92,2026-06-21,completed
+ORD00153,Sara Haas,wagnergerald@example.org,Second Max,toys,1,295.3,295.3,2026-06-20,cancelled
+ORD00154,Joseph Moore,samantha66@example.com,Respond Plus,sports,1,484.36,484.36,2026-07-04,cancelled
+ORD00155,Maria Jones,grantpaul@example.com,Shake Plus,clothing,1,178.31,178.31,2026-07-27,cancelled
+ORD00156,Lindsey Hernandez,aguilardonald@example.com,Force Plus,toys,5,308.72,1543.6,2026-08-07,completed
+ORD00157,Jenna Larson,collinsnicholas@example.com,Tax Pro,clothing,3,352.84,1058.52,2026-05-23,cancelled
+ORD00158,Theresa Osborn,lucasrodney@example.com,Affect Max,toys,4,39.44,157.76,2026-06-13,completed
+ORD00159,Daniel Meza,ilee@example.org,Bank Plus,home,2,188.18,376.36,2026-06-07,cancelled
+ORD00160,Katie Fernandez,stanleynancy@example.net,Catch Pro,clothing,2,378.45,756.9,2026-07-04,completed
+ORD00161,Christopher Schwartz,jenniferwilliams@example.com,Require Plus,toys,4,210.02,840.08,2026-07-15,pending
+ORD00162,Lisa Goodwin,pyoung@example.com,Table Lite,sports,5,245.88,1229.4,2026-07-21,cancelled
+ORD00163,Cheyenne Gregory,smurray@example.com,Morning Pro,clothing,3,472.94,1418.82,2026-06-28,pending
+ORD00164,Ruth Solis,moniquewilliams@example.com,Two Plus,sports,4,91.97,367.88,2026-06-14,refunded
+ORD00165,Michelle Black,mitchellkathryn@example.com,Listen Lite,electronics,4,431.57,1726.28,2026-08-01,completed
+ORD00166,Jeffrey Potts,lisawilkerson@example.org,Join Lite,toys,4,288.83,1155.32,2026-05-16,refunded
+ORD00167,Cynthia Vang,jeffrey51@example.net,Rate Max,toys,4,416.85,1667.4,2026-06-11,cancelled
+ORD00168,Andrew Lowery,ihorton@example.net,Manager,books,5,43.93,219.65,2026-06-21,cancelled
+ORD00169,Bobby Scott,anaacosta@example.net,Land Pro,toys,1,267.65,267.65,2026-05-22,pending
+ORD00170,Eric Williams,nfowler@example.com,At Max,clothing,1,77.49,77.49,2026-05-21,pending
+ORD00171,Linda Smith,jennifercarter@example.org,Possible Pro,clothing,4,234.66,938.64,2026-06-12,refunded
+ORD00172,Chelsea Barnett,carlos88@example.net,Stop,home,3,79.72,239.16,2026-08-08,completed
+ORD00173,Jeanette Harrison,qzavala@example.net,Admit,electronics,3,256.13,768.39,2026-06-13,cancelled
+ORD00174,David Sandoval,ingramjill@example.com,Cell Lite,electronics,1,309.43,309.43,2026-05-15,refunded
+ORD00175,Robin Thompson,epollard@example.net,Court Pro,books,5,327.66,1638.3,2026-07-24,cancelled
+ORD00176,Ricardo Ellis,james30@example.com,Worker Plus,electronics,3,491.28,1473.84,2026-06-08,completed
+ORD00177,Robert Kennedy,mullinsjames@example.com,Training Plus,books,5,263.76,1318.8,2026-07-21,pending
+ORD00178,Evelyn Martinez,samuel67@example.com,Group Lite,sports,5,30.92,154.6,2026-08-07,cancelled
+ORD00179,Jonathan Glass MD,acostachristian@example.net,Test Lite,home,5,437.27,2186.35,2026-05-28,cancelled
+ORD00180,Brian Murphy,kirk96@example.org,Road Lite,sports,4,68.83,275.32,2026-06-20,completed
+ORD00181,Nicholas Buck,yhill@example.org,Bad Max,sports,-1,51.26,256.3,2026-07-11,refunded
+ORD00182,Jose Brady,stephaniethomas@example.net,Resource Max,home,4,100.04,400.16,2026-07-21,pending
+ORD00183,Austin Osborne,michael90@example.net,Class,toys,5,23.69,118.45,2026-07-12,cancelled
+ORD00184,Jacqueline Hines,alyssasanders@example.net,Family Max,clothing,2,416.52,833.04,2026-06-03,pending
+ORD00185,Noah Porter,hmcintyre@example.com,Stage Max,books,5,146.04,730.2,2026-06-04,refunded
+ORD00186,Zachary Mitchell,igonzalez@example.org,Live Plus,clothing,3,340.76,1022.28,2026-05-27,refunded
+ORD00187,Yolanda Cochran,elizabeth18@example.net,Fill,books,2,409.36,818.72,2026-07-31,pending
+ORD00188,Michelle Ho,laurahicks@example.org,Deep Lite,toys,1,357.14,357.14,2026-07-22,completed
+ORD00189,Johnny Ward,tanner82@example.net,Usually,clothing,4,50.4,201.6,2026-05-19,pending
+ORD00190,Zachary Higgins,khammond@example.org,Car Plus,electronics,4,253.49,1013.96,2026-08-07,pending
+ORD00191,Joanna Frazier,david89@example.org,Special Lite,electronics,3,396.73,1190.19,2026-08-06,pending
+ORD00192,Thomas Brown,holmeskevin@example.org,Future Max,sports,-1,227.06,908.24,2026-08-04,completed
+ORD00193,Travis Stone,meghan43@example.net,Ok Max,toys,5,266.25,1331.25,2026-06-05,completed
+ORD00194,Lisa Davis,brittanycarpenter@example.org,Reason Max,books,5,231.27,1156.35,2026-07-07,completed
+ORD00195,Gail Bradshaw,bryananthony@example.org,Put,toys,2,360.68,721.36,2026-07-20,cancelled
+ORD00196,Daniel Armstrong,jimenezcourtney@example.com,Quality Plus,clothing,1,264.12,264.12,2026-08-06,cancelled
+ORD00197,Dr. Michael Evans,barkereric@example.com,Member,toys,1,198.27,198.27,2026-06-22,refunded
+ORD00198,Charles Hensley,jessica56@example.org,Soon Pro,home,1,175.68,175.68,2026-06-14,completed
+ORD00199,Emma Owens,shannon21@example.org,Fill Pro,home,5,172.58,862.9,2026-08-05,pending
+ORD00200,Jennifer Estes,lisapeck@example.net,Form Plus,sports,2,406.69,813.38,2026-05-29,completed
+ORD00201,Zachary Owens,tyler16@example.net,Lot Max,electronics,2,443.47,886.94,2026-08-07,cancelled
+ORD00202,Harry Williams,pharper@example.net,Many,books,3,23.13,69.39,2026-06-06,pending
+ORD00203,Brian Anderson,jessica65@example.org,Institution Lite,home,1,400.67,400.67,2026-05-16,refunded
+ORD00204,Heidi Roberts,wgordon@example.net,Far Plus,home,2,250.62,501.24,2026-07-25,refunded
+ORD00205,Lisa Anderson,longlaura@example.com,Open Pro,sports,4,44.07,176.28,2026-08-04,pending
+ORD00206,Christina Hicks,williamsderrick@example.com,Summer Lite,home,4,303.3,1213.2,2026-06-23,refunded
+ORD00207,Larry Robertson,sarah52@example.com,Practice Lite,toys,4,140.9,563.6,2026-07-17,completed
+ORD00208,George Clayton,terickson@example.com,Team Max,electronics,2,425.09,850.18,2026-05-13,refunded
+ORD00209,Brian Butler,laura09@example.com,Evidence Lite,home,4,474.99,1899.96,2026-08-07,completed
+ORD00210,Paula Lane,silvageorge@example.net,Set Lite,books,1,289.09,289.09,2026-07-06,cancelled
+ORD00211,Brittany Becker,armstrongjackie@example.org,After Pro,electronics,2,252.03,504.06,2026-06-20,refunded
+ORD00212,Jason Harris,vsalas@example.net,Assume Plus,clothing,5,146.36,731.8,2026-07-14,refunded
+ORD00213,Kristina Bolton,ufox@example.org,Machine Max,sports,4,498.64,1994.56,2026-08-02,cancelled
+ORD00214,Hector Ingram,chelsea33@example.com,Open Lite,home,2,357.35,714.7,2026-06-07,pending
+ORD00215,Vickie Wise,hannahburns@example.com,Happy Max,clothing,2,396.23,792.46,2026-07-01,completed
+ORD00216,Mikayla Roberts,zhuang@example.com,Spring,clothing,5,442.7,2213.5,2026-07-23,completed
+ORD00217,Dwayne Klein,sandra47@example.org,Defense,books,4,412.55,1650.2,2026-07-25,completed
+ORD00218,Justin Nelson,gilbertbrenda@example.org,Apply Plus,sports,5,175.53,877.65,2026-07-11,pending
+ORD00219,Margaret Williams,erivera@example.org,Responsibility Pro,electronics,5,80.74,403.7,2026-07-20,pending
+ORD00220,Joshua Hickman,edelgado@example.com,Rather,home,1,129.05,129.05,2026-05-29,cancelled
+ORD00221,Erica Brewer,pearsonjesse@example.net,Several,sports,2,297.95,595.9,2026-07-27,pending
+ORD00222,Thomas Butler,sarahjohnson@example.com,Store Lite,toys,1,413.49,413.49,2026-06-25,completed
+ORD00223,Tonya Howe,smithashley@example.org,Without Lite,sports,2,384.64,769.28,2026-08-08,refunded
+ORD00224,William Daniels,ismall@example.net,Management,home,3,244.06,732.18,2026-06-05,refunded
+ORD00225,Erin Simon,jennifer05@example.com,Out Plus,books,4,234.9,939.6,2026-07-11,cancelled
+ORD00226,Levi Fowler,gwilcox@example.com,Before Lite,books,2,381.53,763.06,2026-06-17,completed
+ORD00227,William Woods,adamreyes@example.com,Some Max,clothing,1,30.05,30.05,2026-06-05,refunded
+ORD00228,Kevin Berry,desiree30@example.net,By Max,home,5,361.96,1809.8,2026-06-22,pending
+ORD00229,Michael Leblanc,hannah45@example.net,Do Plus,home,4,16.47,65.88,2026-05-31,refunded
+ORD00230,Christian Adkins,robert87@example.net,Suffer Lite,electronics,-1,144.27,144.27,2026-07-10,refunded
+ORD00231,David Fischer,foxallison@example.com,Bank Max,home,3,383.11,1149.33,2026-08-02,cancelled
+ORD00232,Ronald Leach,ashleyhernandez@example.com,Too Lite,toys,3,41.4,124.2,2026-06-27,refunded
+ORD00233,Daniel Aguilar,nolansean@example.org,Long,electronics,2,487.67,975.34,2026-05-23,refunded
+ORD00234,Justin Hansen,jennifer64@example.org,Skill Lite,clothing,2,303.22,606.44,2026-05-31,refunded
+ORD00235,Jeff Graves,michaelcesar@example.com,Almost Lite,books,5,231.21,1156.05,2026-06-06,pending
+ORD00236,Chad May,ybrooks@example.com,True,sports,3,298.89,896.67,2026-08-02,refunded
+ORD00237,Bobby Brandt,desireebailey@example.org,Note Lite,home,1,490.05,490.05,2026-06-16,cancelled
+ORD00238,William Davenport,goodsteven@example.net,Off Pro,toys,4,136.44,545.76,2026-06-19,pending
+ORD00239,David Murray,joshuapineda@example.net,Southern,books,2,411.72,823.44,2026-05-22,pending
+ORD00240,Jennifer Miranda,allencarlos@example.net,Along Pro,books,3,212.3,636.9,2026-06-21,refunded
+ORD00241,Shelby Sanchez,moralesjimmy@example.org,Somebody Plus,sports,1,354.36,354.36,2026-07-28,pending
+ORD00242,Jonathan Roberts,barbara53@example.com,Under Plus,home,2,232.53,465.06,2026-05-24,cancelled
+ORD00243,Connie Turner,hawkinsbrittany@example.net,Which Lite,toys,4,100.17,400.68,2026-05-27,pending
+ORD00244,Kristi Williams,shelly68@example.com,Same Lite,home,2,346.67,693.34,2026-06-18,refunded
+ORD00245,James Webster,oallen@example.com,Toward Lite,home,1,288.87,288.87,2026-07-14,refunded
+ORD00246,Suzanne Hart,igrant@example.com,Eight Max,home,1,147.38,147.38,2026-06-03,completed
+ORD00247,Bob Cole,christopher30@example.com,Huge Plus,clothing,2,414.84,829.68,2026-07-11,cancelled
+ORD00248,Shelly Lopez,timothybooth@example.com,Floor,sports,5,123.44,617.2,2026-08-06,completed
+ORD00249,Timothy Hayden,burgesskaren@example.org,Safe Pro,electronics,4,168.5,,2026-07-05,refunded
+ORD00250,Thomas Arnold,oscar85@example.com,Every,clothing,4,328.18,1312.72,2026-06-13,refunded
+ORD00251,Julie Lang,ugill@example.org,Hospital Lite,home,1,454.43,454.43,2026-06-09,completed
+ORD00252,Sean Figueroa,greensarah@example.net,Service Pro,clothing,4,441.71,1766.84,2026-06-18,pending
+ORD00253,Gary James,victorpena@example.net,Green Plus,clothing,3,438.99,1316.97,2026-06-04,completed
+ORD00254,Tracy May,umurray@example.com,Condition Lite,home,4,494.6,1978.4,2026-05-24,refunded
+ORD00255,Catherine Preston,warrenmary@example.org,You Lite,clothing,1,168.69,,2026-07-24,refunded
+ORD00256,Aaron Taylor,carloshernandez@example.org,Mouth Lite,home,5,338.83,1694.15,2026-06-22,pending
+ORD00257,Mark Peck,bhopkins@example.org,Night Plus,toys,3,47.94,143.82,2026-06-30,completed
+ORD00258,Joseph Hill,andre62@example.org,Why Max,electronics,3,194.87,584.61,2026-05-20,refunded
+ORD00259,Corey Fox,joseph61@example.com,Into,electronics,3,328.57,985.71,2026-06-22,pending
+ORD00260,Michael Evans,valdezmichele@example.org,Better Plus,sports,5,461.94,2309.7,2026-06-17,cancelled
+ORD00261,John Walsh,christopherbruce@example.net,Still Lite,toys,2,113.47,226.94,2026-06-10,pending
+ORD00262,Valerie Jacobson,hallrachel@example.net,Very Lite,books,5,456.83,2284.15,2026-07-02,pending
+ORD00263,Thomas Cohen,rachel90@example.org,Woman Pro,toys,4,266.45,1065.8,2026-07-27,cancelled
+ORD00264,Daniel Thomas,thickman@example.org,Organization,toys,2,288.49,576.98,2026-06-02,pending
+ORD00265,Jasmine Mosley,patrick21@example.net,Skill Max,sports,5,246.97,1234.85,2026-08-07,refunded
+ORD00266,Jeffrey Roberson,cassie99@example.com,Staff Plus,toys,1,281.6,281.6,2026-06-10,cancelled
+ORD00267,Rachel Hayes,michaelpugh@example.com,Cultural Max,toys,1,27.42,27.42,2026-07-12,cancelled
+ORD00268,Angelica Montgomery,jennifermiller@example.org,Husband Pro,books,1,147.11,147.11,2026-07-15,pending
+ORD00269,Nancy Stewart,davissherry@example.com,Here Plus,home,4,227.03,908.12,2026-07-19,refunded
+ORD00270,Brandon Jordan,fgarcia@example.com,Once,clothing,3,63.72,191.16,2026-05-20,refunded
+ORD00271,Erika Cruz,robert18@example.org,Owner Pro,electronics,3,234.19,702.57,2026-06-27,refunded
+ORD00272,Caroline Adams,trevor12@example.com,Fact Lite,clothing,3,98.3,294.9,2026-06-18,completed
+ORD00273,Mr. David Wright,mwheeler@example.com,Both Pro,clothing,2,38.31,76.62,2026-05-24,completed
+ORD00274,James Skinner,vbrock@example.com,Good Max,sports,1,204.12,204.12,2026-06-19,pending
+ORD00275,Marilyn Wheeler,malik37@example.com,Cost Max,toys,3,120.91,362.73,2026-08-06,cancelled
+ORD00276,Doris Neal,yfaulkner@example.org,Gas Max,home,2,492.92,985.84,2026-06-14,pending
+ORD00277,Jenna Wilson,brittanygardner@example.net,Special,sports,2,314.87,629.74,2026-06-30,refunded
+ORD00278,Julia Erickson,ssalinas@example.org,Tell Plus,toys,3,349.67,1049.01,2026-07-27,refunded
+ORD00279,Megan Taylor,john26@example.com,Back Plus,clothing,2,153.86,307.72,2026-06-21,pending
+ORD00280,Lauren Ferguson,ystephens@example.com,Science Plus,toys,5,71.38,356.9,2026-07-31,pending
+ORD00281,Margaret Miller,dianekelly@example.net,Position Plus,home,1,270.14,270.14,2026-05-15,pending
+ORD00282,Miss Jennifer Goodwin,grodriguez@example.com,Doctor Pro,electronics,2,403.3,806.6,2026-06-26,pending
+ORD00283,Lauren Johnston,dbrooks@example.net,Per Pro,clothing,2,481.23,962.46,2026-07-13,completed
+ORD00284,Zachary Webb,robert11@example.net,Change,sports,2,201.33,402.66,2026-06-12,pending
+ORD00285,Richard Boyd,thomas77@example.com,Audience,sports,3,157.67,473.01,2026-06-08,cancelled
+ORD00286,Ashley Sweeney,byrdfrank@example.net,Either Plus,home,2,188.5,377.0,2026-06-27,refunded
+ORD00287,Erin Simmons,zhall@example.net,Create Pro,home,5,467.71,2338.55,2026-05-28,refunded
+ORD00288,Jennifer Mclaughlin,shannonjordan@example.org,Sea,clothing,4,277.57,1110.28,2026-05-31,cancelled
+ORD00289,Michael Flynn,lloydamanda@example.com,Gas Plus,books,2,367.72,735.44,2026-05-29,cancelled
+ORD00290,Michael Burns,candice96@example.net,Build,sports,1,264.35,264.35,2026-06-12,completed
+ORD00291,Lisa Cervantes,,Center Plus,clothing,2,38.64,77.28,2026-06-09,pending
+ORD00292,Bruce Brooks,,Paper,sports,5,456.81,2284.05,2026-06-15,refunded
+ORD00293,Mark Steele,,Culture Pro,toys,3,270.19,810.57,2026-06-09,cancelled
+ORD00294,Anthony Howard,washingtonjames@example.com,Or Max,electronics,1,264.57,264.57,2026-06-26,pending
+ORD00295,Michael Perry PhD,kjackson@example.org,Stuff Lite,books,1,189.66,189.66,2026-07-19,refunded
+ORD00296,Donald Medina,kimberlycunningham@example.com,Often Lite,sports,1,328.6,328.6,2026-06-26,completed
+ORD00297,Debra Daniels,amber07@example.net,Discover Pro,sports,1,352.91,352.91,2026-08-09,completed
+ORD00298,Ronald Potter,nancy07@example.com,Happen,electronics,5,459.98,2299.9,2026-07-28,pending
+ORD00299,Sean Wilson,jasonrojas@example.net,Have Plus,home,1,462.46,462.46,2026-07-28,cancelled
+ORD00300,Jessica Jensen,lisatrujillo@example.net,Have Lite,electronics,2,295.58,591.16,2026-06-28,refunded
+ORD00301,Caroline Werner,keith48@example.net,Teacher,books,5,169.21,846.05,2026-05-20,pending
+ORD00302,Rachel Sellers,michelle22@example.org,Child Lite,electronics,1,221.36,221.36,2026-07-15,completed
+ORD00303,Pam Lowe,othomas@example.com,Product Plus,home,1,318.89,318.89,2026-06-18,refunded
+ORD00304,Mark Beard,powellkara@example.net,Would Plus,clothing,5,332.03,1660.15,2026-07-29,completed
+ORD00305,John Perkins,simonstephen@example.net,Save Pro,electronics,3,81.34,244.02,2026-06-13,pending
+ORD00306,Joseph Robinson,fsummers@example.com,Future Pro,home,4,183.16,732.64,2026-07-25,cancelled
+ORD00307,Kenneth Knight,rkramer@example.org,Any,toys,5,206.98,1034.9,2026-05-20,completed
+ORD00308,Julia Martinez,scottsmith@example.com,Degree Lite,books,1,149.46,149.46,2026-08-09,refunded
+ORD00309,Sonia Turner,clarence54@example.org,Hot Max,toys,5,88.94,444.7,2026-07-10,refunded
+ORD00310,Amber Garrett,rubendavis@example.org,Ability Max,electronics,2,220.16,440.32,2026-05-31,refunded
+ORD00311,Kevin Stone,ssmith@example.com,Technology Max,sports,4,298.93,,2026-05-22,pending
+ORD00312,Melissa Woods,patrickcross@example.org,Board Plus,home,5,193.05,965.25,2026-06-09,cancelled
+ORD00313,Breanna Ayala,darlenebyrd@example.org,Nice,clothing,3,163.73,491.19,2026-07-01,pending
+ORD00314,Carly Bell,courtneyhernandez@example.com,Power Lite,home,4,484.04,1936.16,2026-07-12,pending
+ORD00315,Angelica Garcia,lawrencepatrick@example.com,Forward Lite,electronics,5,103.9,519.5,2026-07-22,pending
+ORD00316,Matthew Wright,kimberly04@example.org,National Plus,sports,2,222.04,444.08,2026-07-05,cancelled
+ORD00317,James Lucas,troyrodriguez@example.com,Pull Plus,sports,4,73.89,295.56,2026-07-04,cancelled
+ORD00318,Vanessa Hatfield,david96@example.com,Office Plus,electronics,4,495.4,1981.6,2026-07-12,refunded
+ORD00319,Tiffany Townsend,matthewsalexander@example.org,Among Plus,toys,1,396.41,396.41,2026-08-03,cancelled
+ORD00320,Jennifer Mitchell,zhenderson@example.org,Push Pro,electronics,2,330.51,661.02,2026-06-29,cancelled
+ORD00321,Diamond Collins,terrimoore@example.com,Include Plus,home,4,57.44,229.76,2026-07-03,completed
+ORD00322,Marie Day,holly30@example.org,Before,sports,5,114.41,572.05,2026-08-03,cancelled
+ORD00323,Logan Brown,davidzimmerman@example.net,Activity,clothing,3,498.86,1496.58,2026-05-26,refunded
+ORD00324,Kelly Logan,gary24@example.net,Various Pro,sports,2,177.42,354.84,2026-05-22,cancelled
+ORD00325,Frances Patterson,bakertheresa@example.net,Ball Plus,electronics,4,362.39,1449.56,2026-06-25,refunded
+ORD00326,Amy Villarreal,michaelscott@example.org,Wall Pro,electronics,3,325.75,977.25,2026-07-02,pending
+ORD00327,Crystal Hicks,trevinoalexander@example.org,Marriage,clothing,3,282.13,846.39,2026-06-13,refunded
+ORD00328,Cassidy Horne,tranrobin@example.net,Reality Plus,books,1,370.01,,2026-06-18,pending
+ORD00329,Jason Cortez,margaret95@example.org,Morning Max,clothing,3,377.4,1132.2,2026-07-11,completed
+ORD00330,Daniel Black,finleycasey@example.com,Tree Lite,home,2,231.49,462.98,2026-06-06,cancelled
+ORD00331,Erin Tran,woodkelly@example.com,Sister Lite,toys,4,307.6,1230.4,2026-07-07,completed
+ORD00332,Kevin Snyder,jessicapayne@example.org,City Lite,toys,5,46.95,234.75,2026-05-12,pending
+ORD00333,David Reed,tapiaaaron@example.net,However Lite,sports,2,257.86,515.72,2026-07-27,refunded
+ORD00334,Ashley Moreno,robertwoodward@example.org,Seek Plus,sports,5,348.25,1741.25,2026-06-06,pending
+ORD00335,David Bruce,xhaynes@example.com,Small Lite,books,5,31.54,157.7,2026-05-19,cancelled
+ORD00336,Casey Wilkins,vargasbryan@example.net,Case Plus,toys,5,328.27,1641.35,2026-06-02,refunded
+ORD00337,Ethan Owen,louis43@example.org,Yet Plus,clothing,1,284.87,284.87,2026-05-30,pending
+ORD00338,Lauren Moore,shannonedwards@example.org,North Max,books,5,372.55,1862.75,2026-06-13,refunded
+ORD00339,Jodi Ford,davislindsey@example.com,The,home,5,412.19,2060.95,2026-07-14,completed
+ORD00340,Cindy Gates,christopherwright@example.com,Individual Plus,electronics,2,152.37,304.74,2026-06-27,completed
+ORD00341,Debbie Ewing,cranemelissa@example.net,Smile Plus,electronics,2,108.89,217.78,2026-06-30,cancelled
+ORD00342,Brian Leon,smithmaria@example.org,Case,clothing,2,407.7,815.4,2026-05-29,completed
+ORD00343,Michael Pace,aguilarjonathan@example.org,Age Max,home,3,148.22,444.66,2026-08-09,cancelled
+ORD00344,Matthew Lamb,steinmaria@example.com,Can Pro,clothing,4,459.79,1839.16,2026-05-15,cancelled
+ORD00345,Christopher Berry,ycrawford@example.net,Last Max,clothing,3,415.1,1245.3,2026-05-27,refunded
+ORD00346,Cody Ramirez,austinharvey@example.org,Radio Plus,books,4,42.38,169.52,2026-06-07,completed
+ORD00347,Juan Brown,patrick63@example.net,Usually Lite,books,4,167.01,668.04,2026-07-22,completed
+ORD00348,Zachary Stephens,mayokimberly@example.com,Media Plus,sports,3,425.8,1277.4,2026-06-30,refunded
+ORD00349,Dr. Jonathan Price,anthonyharper@example.org,War Lite,home,3,172.19,516.57,2026-07-23,pending
+ORD00350,Robert Ruiz,,End Pro,electronics,1,314.96,314.96,2026-07-10,refunded
+ORD00351,Robert Stark,gallagherstacie@example.net,Throughout Plus,electronics,4,105.15,420.6,2026-08-08,pending
+ORD00352,Timothy Frey,gregorywatkins@example.net,Save Lite,electronics,3,128.94,386.82,2026-06-13,cancelled
+ORD00353,Michele Bell,annalopez@example.com,Occur Lite,sports,-1,217.47,434.94,2026-06-08,completed
+ORD00354,Brandon Hall II,,Sure Max,toys,2,262.12,524.24,2026-05-23,refunded
+ORD00355,Tamara Richard,brian29@example.net,Whose Plus,sports,2,241.46,482.92,2026-05-24,pending
+ORD00356,Joseph Diaz,brookssheri@example.com,Peace Lite,home,3,72.88,218.64,2026-05-21,pending
+ORD00357,Chad Moore,fconner@example.net,Free,electronics,5,326.76,1633.8,2026-05-27,refunded
+ORD00358,Melissa Mcfarland,jeffrey92@example.com,Food Plus,toys,4,430.68,1722.72,2026-07-17,completed
+ORD00359,Christopher Smith,xrosales@example.net,Alone Plus,home,4,160.68,642.72,2026-05-28,pending
+ORD00360,Robert Carr,zunigadonald@example.net,Bank,toys,5,146.04,730.2,2026-06-02,completed
+ORD00361,Mrs. Stacey Davis,sean43@example.org,Room,toys,5,98.38,491.9,2026-05-18,refunded
+ORD00362,Brian Smith,akim@example.org,Usually Max,books,4,60.81,243.24,2026-06-18,refunded
+ORD00363,Heather Bennett,kkramer@example.net,Son Pro,home,3,70.33,210.99,2026-07-12,refunded
+ORD00364,Benjamin Singleton,andrew41@example.org,Guess Pro,electronics,5,38.43,192.15,2026-05-27,cancelled
+ORD00365,Nicholas Payne,morgantricia@example.com,Sea Plus,toys,3,316.14,948.42,2026-05-14,refunded
+ORD00366,Carmen Preston,brianrivera@example.org,It,toys,2,142.35,284.7,2026-07-13,cancelled
+ORD00367,Monica Baker,kenneth10@example.com,Owner Max,toys,3,198.41,595.23,2026-06-30,completed
+ORD00368,Anthony Smith Jr.,bgonzalez@example.org,Conference Max,electronics,2,47.68,95.36,2026-07-08,refunded
+ORD00369,Kara Wilson,qruiz@example.com,Benefit Max,electronics,1,355.41,355.41,2026-07-08,completed
+ORD00370,Jacob James,seanbaker@example.com,Everyone Lite,clothing,3,67.83,203.49,2026-06-01,cancelled
+ORD00371,Antonio Goodwin,millermaurice@example.net,Job Lite,books,3,264.31,792.93,2026-08-07,cancelled
+ORD00372,Kristen Randall,rsheppard@example.com,Page Plus,toys,3,32.44,97.32,2026-07-30,pending
+ORD00373,Blake Orr,shawrachel@example.net,Research,sports,1,118.06,118.06,2026-08-08,completed
+ORD00374,Travis Cole,teresastokes@example.org,And Plus,home,4,460.51,1842.04,2026-06-19,pending
+ORD00375,Jessica Osborn DDS,luis11@example.com,Only Plus,clothing,3,127.89,383.67,2026-06-16,cancelled
+ORD00376,Donald Ellis,buchanancindy@example.net,Station,sports,1,93.78,93.78,2026-06-18,completed
+ORD00377,Charles Matthews,,Stock Lite,home,3,47.76,143.28,2026-06-06,refunded
+ORD00378,Hailey Jenkins,kpena@example.net,Material Lite,sports,5,125.08,625.4,2026-05-15,cancelled
+ORD00379,Charles Franklin,vwilliams@example.net,Economy Max,sports,5,381.44,1907.2,2026-05-16,pending
+ORD00380,Derrick Watson,lisa44@example.com,Threat,home,1,475.74,475.74,2026-06-25,completed
+ORD00381,Annette Melton,kevinmanning@example.com,Exist Lite,electronics,2,267.26,534.52,2026-07-16,pending
+ORD00382,Ann Alexander,wfigueroa@example.net,Trip Max,sports,3,51.05,153.15,2026-06-14,pending
+ORD00383,Rick Jones,htaylor@example.net,Air Lite,books,1,292.48,292.48,2026-05-27,pending
+ORD00384,Christina Brown,bryantsamantha@example.net,Decide Pro,books,2,122.2,244.4,2026-06-05,cancelled
+ORD00385,Kathy Reid,maldonadojohn@example.com,Phone Lite,home,4,139.62,558.48,2026-06-21,completed
+ORD00386,Karen Arnold,frank41@example.com,Ahead Pro,clothing,1,86.37,86.37,2026-06-15,refunded
+ORD00387,Kenneth Hanna,deborahbyrd@example.com,Reach Max,books,3,234.36,703.08,2026-06-17,completed
+ORD00388,Richard Saunders,wellsdavid@example.org,Plant,electronics,2,418.78,837.56,2026-07-23,cancelled
+ORD00389,Lee Hahn,rodney65@example.com,Entire Plus,toys,1,340.21,340.21,2026-05-31,cancelled
+ORD00390,Joseph Hanson,smithyvonne@example.com,Option Plus,toys,5,128.68,643.4,2026-07-09,refunded
+ORD00391,Elizabeth Rodriguez,rogersjoshua@example.com,Training Pro,clothing,2,103.08,206.16,2026-06-05,refunded
+ORD00392,Tiffany Curtis,,Support,toys,3,459.13,1377.39,2026-07-28,completed
+ORD00393,Jennifer Flores,jenniferrios@example.com,Event Plus,clothing,1,453.01,453.01,2026-08-01,cancelled
+ORD00394,Norman Aguilar,matthewreeves@example.net,Nor,books,4,250.58,1002.32,2026-07-08,refunded
+ORD00395,Todd Howard,megan82@example.com,Bill Max,home,3,225.78,677.34,2026-06-23,pending
+ORD00396,Molly Hansen,staceylam@example.net,Behind Lite,books,4,441.98,1767.92,2026-06-01,refunded
+ORD00397,Seth Fisher,nathan94@example.com,Today Max,sports,5,128.33,641.65,2026-05-22,completed
+ORD00398,Mark Carpenter,kennedyjames@example.org,Trip,books,3,456.78,1370.34,2026-07-12,cancelled
+ORD00399,Jennifer Pitts,derrickgonzalez@example.com,Over Max,electronics,3,34.0,102.0,2026-07-31,refunded
+ORD00400,Mrs. Shannon White,freemancrystal@example.org,Form Max,electronics,2,330.15,660.3,2026-07-08,cancelled
+ORD00401,Donald Juarez,barbaramoore@example.org,Carry Max,toys,4,180.63,722.52,2026-07-06,pending
+ORD00402,Jennifer Sanford,ismith@example.org,Side Lite,toys,1,353.21,353.21,2026-06-14,cancelled
+ORD00403,Frank Whitaker,andrewsmith@example.net,Energy Max,books,5,157.98,789.9,2026-06-01,refunded
+ORD00404,Emily Garcia,gary04@example.com,Lose Pro,toys,4,5.34,21.36,2026-07-16,pending
+ORD00405,Gail Barron,matthewvalenzuela@example.com,Social Lite,electronics,1,78.12,78.12,2026-05-28,pending
+ORD00406,Tamara Powell,jeffreymercer@example.org,Similar Pro,home,4,295.08,1180.32,2026-05-13,cancelled
+ORD00407,Barbara Dawson,brooksdanielle@example.net,Price Plus,sports,4,326.34,1305.36,2026-05-16,pending
+ORD00408,Mary Valdez MD,butleromar@example.net,Entire,home,2,334.44,668.88,2026-06-23,pending
+ORD00409,Michael Mccoy,robert18@example.com,Prevent Max,sports,1,474.65,474.65,2026-07-05,refunded
+ORD00410,Ronald Garcia,campbellkristen@example.com,Decide Max,toys,3,460.91,1382.73,2026-07-05,pending
+ORD00411,Sandra Dudley,jade42@example.org,Official Lite,sports,1,122.81,122.81,2026-06-25,cancelled
+ORD00412,Timothy Rivera,smithchristopher@example.org,Thing Lite,books,1,136.28,136.28,2026-07-02,pending
+ORD00413,Travis Chan Jr.,conwaydawn@example.com,Fine Pro,electronics,4,221.92,887.68,2026-06-04,refunded
+ORD00414,Robert Sawyer,michael56@example.net,Business Plus,home,5,190.8,954.0,2026-05-20,refunded
+ORD00415,Amber Christian,markkline@example.net,Executive Max,clothing,4,41.49,165.96,2026-07-30,completed
+ORD00416,Robert White,dross@example.com,Thing Pro,home,2,444.53,889.06,2026-06-15,pending
+ORD00417,Rebecca Banks,danielhorton@example.org,Yes Pro,home,5,492.71,2463.55,2026-07-26,refunded
+ORD00418,Thomas Webb,ywhite@example.com,Population,books,2,31.51,63.02,2026-05-14,cancelled
+ORD00419,Sara Mcpherson,timothyfreeman@example.com,Let,home,3,152.21,456.63,2026-05-16,completed
+ORD00420,Ernest Bush,tiffanysantiago@example.com,Natural Max,electronics,3,6.89,20.67,2026-06-28,completed
+ORD00421,Anna Stanley,timothyalvarado@example.net,Image Max,electronics,1,107.44,107.44,2026-05-25,cancelled
+ORD00422,Stephanie Salazar,schneidereric@example.com,Together Plus,books,4,447.96,1791.84,2026-06-25,cancelled
+ORD00423,Paul Flores,tara08@example.org,Oil Plus,home,2,225.66,451.32,2026-07-08,cancelled
+ORD00424,David Stevens,fmiller@example.com,Four,electronics,2,377.36,754.72,2026-05-22,completed
+ORD00425,Matthew Garcia MD,petersenlatoya@example.net,Public,clothing,5,35.19,175.95,2026-06-08,refunded
+ORD00426,Christine Powers,michael03@example.com,Glass Plus,toys,2,240.75,481.5,2026-07-01,completed
+ORD00427,Kara Sandoval,wwilson@example.net,Doctor,toys,5,340.38,1701.9,2026-05-12,pending
+ORD00428,Mark Marsh,jacqueline02@example.com,Challenge Max,clothing,2,67.46,134.92,2026-07-24,refunded
+ORD00429,Jennifer King,jacobconrad@example.com,Dinner Max,toys,3,163.28,489.84,2026-06-22,completed
+ORD00430,Michelle Rodriguez,owilliams@example.net,Per Lite,toys,4,459.0,1836.0,2026-05-23,completed
+ORD00431,Judith Lawrence,tamarasmith@example.net,Anything Plus,electronics,4,79.07,316.28,2026-06-30,completed
+ORD00432,Kevin Glass,heatherthompson@example.org,Body Lite,toys,3,439.56,1318.68,2026-06-15,cancelled
+ORD00433,Sonya Gordon,mbarnes@example.net,Sound Pro,clothing,3,204.47,613.41,2026-06-03,refunded
+ORD00434,Grant Phillips,,Music Max,electronics,4,460.81,1843.24,2026-06-07,cancelled
+ORD00435,Shannon Joseph,jamesweber@example.com,Right Lite,books,1,486.39,486.39,2026-06-12,pending
+ORD00436,Vicki Santos,williambenson@example.com,See Lite,home,4,304.46,1217.84,2026-05-22,completed
+ORD00437,John Duncan,icraig@example.com,Understand Plus,toys,3,411.4,1234.2,2026-07-27,pending
+ORD00438,Kelly Johnson,brianbrown@example.com,Social,toys,1,91.0,91.0,2026-07-21,pending
+ORD00439,Miss Brianna Brown,james80@example.com,Teach Lite,sports,2,140.62,281.24,2026-06-21,refunded
+ORD00440,Megan Hoffman,juliahoffman@example.org,Much Pro,clothing,3,246.95,740.85,2026-07-21,refunded
+ORD00441,Donna Beck,yhughes@example.net,Form Lite,home,2,419.64,839.28,2026-08-06,cancelled
+ORD00442,Patrick Harris,ogreer@example.net,Security Plus,electronics,2,427.64,855.28,2026-07-09,pending
+ORD00443,Kimberly Morrison,kellythompson@example.net,Bad Lite,sports,4,259.07,1036.28,2026-05-28,completed
+ORD00444,Jose Bennett,qramirez@example.org,College Pro,clothing,3,306.13,918.39,2026-07-03,cancelled
+ORD00445,Gary Mckinney,billmcfarland@example.net,Approach Plus,home,4,129.74,518.96,2026-07-20,refunded
+ORD00446,Sarah Turner,charles58@example.org,Create,electronics,1,258.2,258.2,2026-06-27,cancelled
+ORD00447,Caitlin Daniels,odavis@example.org,Record Pro,books,1,171.46,171.46,2026-06-10,cancelled
+ORD00448,Daniel Goodwin,wbarajas@example.net,Act Lite,clothing,2,261.06,522.12,2026-05-22,pending
+ORD00449,David May,susanfleming@example.com,I,books,3,341.97,1025.91,2026-08-02,completed
+ORD00450,Janice Fernandez,angel85@example.net,Suggest Plus,books,4,369.68,1478.72,2026-06-26,pending
+ORD00451,Mr. Matthew Flores,vaughangary@example.net,None Plus,sports,3,256.12,768.36,2026-05-12,pending
+ORD00452,Michael Ayala,nhouston@example.net,Them Pro,books,2,371.75,743.5,2026-07-14,pending
+ORD00453,Patricia Lucas,burgesseric@example.com,Series Max,home,2,373.38,746.76,2026-06-10,cancelled
+ORD00454,Anthony Bauer,andrewsjeremy@example.com,Involve,home,4,426.35,1705.4,2026-06-15,refunded
+ORD00455,Jessica Smith,nicholsdarlene@example.net,At,electronics,4,445.27,1781.08,2026-07-19,completed
+ORD00456,Mercedes Jones,robertsgina@example.net,Before Pro,clothing,2,496.21,992.42,2026-06-06,cancelled
+ORD00457,Jane Short,wellsamanda@example.org,Skin Plus,clothing,3,431.89,1295.67,2026-06-16,pending
+ORD00458,Kimberly Choi,kennetheaton@example.net,Raise Max,home,1,7.33,7.33,2026-06-14,cancelled
+ORD00459,Kristen Peters,williamsashley@example.com,Note Max,books,1,69.06,69.06,2026-06-30,refunded
+ORD00460,Daniel Figueroa,jason82@example.org,Create Plus,electronics,1,269.22,269.22,2026-05-31,cancelled
+ORD00461,Cheyenne White,yorksarah@example.net,Main,clothing,1,339.99,339.99,2026-07-09,pending
+ORD00462,Michael King,jessicafreeman@example.com,Heavy Pro,books,5,296.39,1481.95,2026-05-23,pending
+ORD00463,Ariel Harvey,louishayes@example.net,Receive Plus,sports,5,300.2,1501.0,2026-06-08,cancelled
+ORD00464,Krystal Diaz,,Employee Plus,home,2,86.62,173.24,2026-07-21,refunded
+ORD00465,Margaret Hill,dennis57@example.com,Like Max,sports,1,296.9,296.9,2026-06-13,pending
+ORD00466,Juan Thompson,wilkinsonmichele@example.org,Vote Plus,sports,3,386.77,1160.31,2026-06-29,completed
+ORD00467,Stephen Jones,mcclainmelissa@example.net,Allow Pro,electronics,1,211.3,211.3,2026-07-24,refunded
+ORD00468,Patricia Lewis,arnoldamy@example.net,Marriage Max,sports,1,154.05,154.05,2026-07-09,completed
+ORD00469,James Vance,dennis88@example.org,Industry Max,books,1,258.23,258.23,2026-06-13,completed
+ORD00470,David Maynard,katherinetaylor@example.org,Country,clothing,3,416.59,1249.77,2026-07-01,pending
+ORD00471,Shelby Thomas,ccrosby@example.org,Sort,books,-1,345.66,691.32,2026-06-24,refunded
+ORD00472,Jacob Williams,aprilmoody@example.com,Manager Pro,toys,4,78.83,315.32,2026-08-02,completed
+ORD00473,Amanda Wong,padillaadrienne@example.com,They Lite,sports,2,231.09,462.18,2026-07-17,cancelled
+ORD00474,Laura Bennett,pdiaz@example.org,Nation Pro,home,3,401.79,1205.37,2026-06-03,cancelled
+ORD00475,Courtney Sullivan,tommy79@example.org,More Pro,electronics,2,333.36,666.72,2026-07-30,pending
+ORD00476,David Robertson,jason22@example.com,Play Lite,sports,1,189.45,189.45,2026-07-15,cancelled
+ORD00477,David Shepherd,olsontimothy@example.org,Performance Lite,books,4,400.95,1603.8,2026-05-26,pending
+ORD00478,Alison Williams,dennishunt@example.net,Choice Max,electronics,4,456.06,1824.24,2026-05-17,refunded
+ORD00479,Christopher Mullen,johnsjessica@example.com,Your Plus,home,5,19.26,96.3,2026-05-19,pending
+ORD00480,Willie Dillon,,Study Plus,electronics,1,134.5,134.5,2026-07-03,cancelled
+ORD00481,Lisa Dixon,jennifercooper@example.com,Pick,sports,5,115.87,579.35,2026-07-04,cancelled
+ORD00482,James Rodriguez,alexandrablankenship@example.net,Kind Plus,sports,2,243.56,487.12,2026-07-25,refunded
+ORD00483,Cassandra Valenzuela,richamanda@example.org,Better,electronics,1,323.48,323.48,2026-06-24,pending
+ORD00484,Larry Carey,xboyd@example.org,Save Max,electronics,4,163.71,654.84,2026-06-28,cancelled
+ORD00485,Robert Clarke,zbell@example.net,Whatever Plus,books,2,44.02,88.04,2026-07-19,refunded
+ORD00486,Anne Anderson,fcannon@example.com,Piece Plus,home,1,490.43,490.43,2026-07-29,completed
+ORD00487,Colin Fletcher,lanedavid@example.org,How Pro,electronics,5,481.77,2408.85,2026-07-09,cancelled
+ORD00488,Emily Cox,ronaldrichards@example.com,Top Plus,home,3,413.53,1240.59,2026-06-29,pending
+ORD00489,Lisa Braun,afischer@example.net,Step,books,3,359.38,,2026-07-01,completed
+ORD00490,Justin Webb,becky62@example.net,By Lite,sports,3,276.11,828.33,2026-07-18,cancelled
+ORD00491,Michael Martin,williamhartman@example.net,Positive Max,sports,4,57.95,231.8,2026-07-13,pending
+ORD00492,Caitlyn Oconnell,brockmadeline@example.com,With Plus,clothing,3,58.34,175.02,2026-07-05,refunded
+ORD00493,Dennis Wood,ramseysarah@example.com,Positive Pro,books,-1,330.94,1323.76,2026-07-10,pending
+ORD00494,Victor Brown,daniellegonzales@example.org,To,books,5,244.05,1220.25,2026-07-10,pending
+ORD00495,Donna Johnson,christinacraig@example.com,Edge Pro,books,5,305.05,1525.25,2026-07-09,cancelled
+ORD00496,Angie Hill,zgomez@example.com,Peace Max,home,4,481.98,1927.92,2026-05-30,cancelled
+ORD00497,Michael Calhoun,jessica89@example.com,Hand,home,5,431.05,2155.25,2026-08-06,pending
+ORD00498,Larry Lee,qandrews@example.org,Investment Lite,sports,2,490.76,981.52,2026-06-26,pending
+ORD00499,Kathy Morgan,prattsue@example.net,Tax Pro,home,5,242.78,1213.9,2026-07-22,refunded
+ORD00500,Jeremy Bennett,wcarrillo@example.com,Stand Plus,electronics,5,57.7,288.5,2026-06-22,refunded
+ORD00385,Kathy Reid,maldonadojohn@example.com,Phone Lite,home,4,139.62,558.48,2026-06-21,completed
+ORD00403,Frank Whitaker,andrewsmith@example.net,Energy Max,books,5,157.98,789.9,2026-06-01,refunded
+ORD00083,Christopher Jones,ortizhannah@example.com,Film Plus,clothing,3,399.93,1199.79,2026-05-14,cancelled
+ORD00147,Susan Bailey,joelthomas@example.org,Consumer Lite,books,1,35.11,35.11,2026-07-05,refunded
+ORD00350,Robert Ruiz,,End Pro,electronics,1,314.96,314.96,2026-07-10,refunded
+ORD00129,Zachary Schmidt,bwagner@example.org,Student Max,sports,1,452.18,452.18,2026-07-14,completed
+ORD00075,Jesse Parker,davidlee@example.org,Situation Pro,toys,2,235.19,470.38,2026-06-29,cancelled
+ORD00430,Michelle Rodriguez,owilliams@example.net,Per Lite,toys,4,459.0,1836.0,2026-05-23,completed
