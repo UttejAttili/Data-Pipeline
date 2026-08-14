@@ -4,7 +4,7 @@ resource "aws_glue_job" "orders_transform" {
 
   command {
     script_location = "s3://${aws_s3_bucket.raw.id}/${aws_s3_object.transform_script.key}"
-    python_version   = "3"
+    python_version  = "3"
   }
 
   default_arguments = {

@@ -5,7 +5,7 @@ resource "aws_glue_catalog_database" "orders_db" {
 resource "aws_s3_object" "sample_orders" {
   bucket = aws_s3_bucket.raw.id
   key    = "orders/sample_orders.csv"
-  source = "../data/sample_orders.csv"   # path relative to your terraform/ folder — adjust if yours differs
+  source = "../data/sample_orders.csv" # path relative to your terraform/ folder — adjust if yours differs
   etag   = filemd5("../data/sample_orders.csv")
 }
 
